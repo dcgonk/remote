@@ -1,3 +1,5 @@
 this is a git practice run
 
-adding another 
+adding another
+
+git diff
